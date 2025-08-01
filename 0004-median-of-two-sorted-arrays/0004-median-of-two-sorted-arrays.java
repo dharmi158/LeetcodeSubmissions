@@ -1,25 +1,32 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        // Brute force - merge two array and then sort it to find median
-        int n1 = nums1.length;
-        int n2 = nums2.length;
-        int[] mergedArray = new int[n1+n2];
-        int j = 0;
-        for(int i=0;i<n1;i++){
-            mergedArray[j++] = nums1[i];
+        // Two pointer approach - merge with two pointer and find median
+        List<Integer> mergedArray = new ArrayList<>();
+        int i=0,j=0;
+        while(i<nums1.length && j<nums2.length){
+            if(nums1[i]<nums2[j]){
+                mergedArray.add(nums1[i]);
+                i++;
+            }
+            else{
+                mergedArray.add(nums2[j]);
+                j++;
+            }
         }
-        for(int i=0;i<n2;i++){
-            mergedArray[j++] = nums2[i];
+        while(i<nums1.length){
+            mergedArray.add(nums1[i]);
+            i++;
         }
-        Arrays.sort(mergedArray);
-        int n_mergerd = mergedArray.length;
-        if(n_mergerd % 2 == 0){
-            int mid1 = mergedArray[n_mergerd / 2];
-            int mid2 = mergedArray[(n_mergerd / 2)-1];
-            return ((double)mid1 + (double)mid2) / 2.0;
+        while(j<nums2.length){
+            mergedArray.add(nums2[j]);
+            j++;
+        }
+        int mid = mergedArray.size()/2;
+        if(mergedArray.size() % 2 == 0){
+            return (mergedArray.get(mid-1) + mergedArray.get(mid)) / 2.0;
         }
         else{
-            return (double) mergedArray[n_mergerd / 2];
+            return mergedArray.get(mid);
         }
     }
 }
