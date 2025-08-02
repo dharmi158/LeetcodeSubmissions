@@ -42,4 +42,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
