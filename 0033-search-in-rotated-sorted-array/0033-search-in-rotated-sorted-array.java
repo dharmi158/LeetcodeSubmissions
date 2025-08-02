@@ -6,18 +6,24 @@ class Solution {
             if(nums[middle] == target){
                 return middle;
             }
+            // Target is between L AND M - this is in ascending order
             else if(nums[middle] >= nums[left]){
+                //checking if target is present in this part
                 if(nums[left] <= target && target <= nums[middle]){
                     right = middle - 1;
                 }
+                // move to another part of array
                 else{
                     left = middle + 1;
                 }
             }
+            // target is between M AND R - this is in ascending order
             else{
+                //checking if target is present in this part
                 if(nums[middle] <= target && target <= nums[right]){
                     left = middle + 1;
                 }
+                //move to another part of array
                 else{
                     right = middle - 1;
                 }
