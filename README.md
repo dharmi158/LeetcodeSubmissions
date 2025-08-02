@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
