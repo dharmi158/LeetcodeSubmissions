@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
