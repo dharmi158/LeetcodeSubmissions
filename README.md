@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
+| [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
+| [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +61,16 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
