@@ -53,6 +53,9 @@ class MyQueue {
     }
     
     public boolean empty() {
+        //return s1.isEmpty()
+
+        //Approach - 2
         return s1.isEmpty() && s2.isEmpty();
     }
 }
