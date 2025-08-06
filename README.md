@@ -73,4 +73,16 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
