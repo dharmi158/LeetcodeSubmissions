@@ -68,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -90,4 +91,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
