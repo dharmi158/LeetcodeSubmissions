@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -33,6 +35,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +50,7 @@
 | [0056-merge-intervals](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
