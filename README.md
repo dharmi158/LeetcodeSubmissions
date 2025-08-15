@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -38,6 +40,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 ## Segment Tree
 |  |
 | ------- |
