@@ -20,6 +20,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -118,4 +122,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
