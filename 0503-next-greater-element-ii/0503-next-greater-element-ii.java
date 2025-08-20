@@ -3,10 +3,12 @@ class Solution {
         int n = nums.length;
         Stack<Integer> st = new Stack<>();
         int[] nextGreater = new int[n];
+        //circularly checks in the array 
         for (int i= 2*n -1 ; i>=0; i--) {
             while (!st.isEmpty() && st.peek() <= nums[i%n]) {
                 st.pop();
             }
+            // if it ranges within the array's length then add nge
             if(i<n){
                 nextGreater[i] = st.isEmpty() ? -1 : st.peek();
             }
