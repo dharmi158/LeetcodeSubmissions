@@ -51,6 +51,7 @@
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -76,6 +77,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
+| [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
 ## String Matching
 |  |
 | ------- |
