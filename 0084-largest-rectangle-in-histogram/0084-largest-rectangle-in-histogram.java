@@ -35,6 +35,11 @@ class Solution {
         int[] prevSmaller = prevSmallerHeight(heights);
         int[] nextSmaller = nextSmallerHeight(heights);
 
+        // System.out.println("Index | Height | PrevSmaller | NextSmaller");
+        // for (int i = 0; i < n; i++) {
+        //     System.out.println(i + " " + heights[i] + " " + prevSmaller[i] + " " + nextSmaller[i]);
+        // }
+
         int maxArea = 0;
         for (int i = 0; i < n; i++) {
             int width = nextSmaller[i] - prevSmaller[i] - 1;
