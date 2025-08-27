@@ -3,6 +3,9 @@ class Solution {
         int n = code.length;
         int[] res = new int[n];
         
+        if (k == 0) {
+            return res;
+        }
         for (int i = 0; i < n; i++) {
             if (k > 0) {
                 for (int j = i + 1; j < i + 1 + k; j++) {
