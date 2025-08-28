@@ -41,7 +41,7 @@ class Solution {
         // return false;
 
 
-        //2nd Optimal Solution  TC - O(N + M), SC - O(1) - efficient code
+        //2nd Optimal Solution (Reverse L direection) TC - O(N + M), SC - O(1) - efficient code
         // int row = 0;
         // int col = matrix[0].length - 1;
 
@@ -56,7 +56,7 @@ class Solution {
         // }
         // return false;
 
-        //                       OR
+        // L direction        OR           TC - O(N + M), SC - O(1) - efficient code
         int n = matrix.length;
         int m = matrix[0].length;
         int row = n - 1;
