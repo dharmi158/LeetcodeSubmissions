@@ -1,0 +1,58 @@
+// F - number of friends , P - number of purchases , N - number of items
+// TC - O( F* P + N logN) , SC - O(N)
+class Person {
+    String name;
+    List<Person> friends;
+    List<Item> purchases;
+
+    public Person(String name) {
+        this.name = name;
+        this.friends = new ArrayList<>();
+        this.purchases = new ArrayList<>();
+    }
+
+    public void addFriend(Person friend) {
+        this.friends.add(friend);
+    }
+
+    public void addPurchase(Item item) {
+        this.purchases.add(item);
+    }
+}
+
+class Item {
+    String name;
+    public Item(String name) {
+        this.name = name;
+    }
+}
+
+List<Item> getPurchases(Person person) {
+    return person.purchases;
+}
+
+List<Person> getFriends(Person person) {
+    return person.friends;
+}
+
+List<Item> getFriendsPurchases(Person person) {
+    // Step 1: Get person’s own purchases
+    Set<Item> selfPurchases = new HashSet<>(getPurchases(person));
+
+    // Step 2: Count items from friends
+    Map<Item, Integer> freq = new HashMap<>();
+    for (Person friend : getFriends(person)) {
+        for (Item item : getPurchases(friend)) {
+            if (!selfPurchases.contains(item)) {
+                freq.put(item, freq.getOrDefault(item, 0) + 1);
+            }
+        }
+    }
+
+    // Step 3: Sort items by frequency
+    List<Item> result = new ArrayList<>(freq.keySet());
+    result.sort((a, b) -> freq.get(b) - freq.get(a));
+
+    return result;
+}
+
