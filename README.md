@@ -18,6 +18,7 @@
 | [0228-summary-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -66,6 +68,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
@@ -182,6 +186,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -190,4 +195,16 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
