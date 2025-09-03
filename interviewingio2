@@ -1,0 +1,21 @@
+// TC - O(1) - insert , O(n) - get
+// SC - O(N)
+import java.util.*;
+
+class ClosestNumber{
+    private List<Integer> nums = new ArrayList<>();
+
+    public void insert(int num) {
+        nums.add(num);
+    }
+
+    public int get(int x) {
+        int closest = nums.get(0);
+        for (int num : nums) {
+            if (Math.abs(num - x) < Math.abs(closest - x)) {
+                closest = num;
+            }
+        }
+        return closest;
+    }
+}
