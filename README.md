@@ -86,6 +86,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0812-rotate-string) |
@@ -135,6 +137,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0392-is-subsequence) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Segment Tree
