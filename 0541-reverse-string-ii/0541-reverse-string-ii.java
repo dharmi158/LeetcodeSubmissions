@@ -14,6 +14,7 @@ class Solution {
         int n = ch.length;
         for(int i=0;i<n;i+=2*k){
             int start = i;
+            // for imcomplete 2k group 
             int end = Math.min(i+k-1,n-1);
 
             reverse(ch,start,end);
