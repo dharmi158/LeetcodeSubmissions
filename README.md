@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0168-excel-sheet-column-title](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0383-ransom-note) |
@@ -198,6 +199,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
