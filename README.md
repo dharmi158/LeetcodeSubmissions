@@ -117,6 +117,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -183,6 +184,7 @@
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
