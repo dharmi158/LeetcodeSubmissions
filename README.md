@@ -31,6 +31,7 @@
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -74,6 +75,7 @@
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -137,6 +139,7 @@
 | [0239-sliding-window-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -259,6 +262,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0383-ransom-note) |
+| [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
 | ------- |
