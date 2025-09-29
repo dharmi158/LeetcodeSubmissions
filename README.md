@@ -153,6 +153,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
@@ -291,6 +292,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
