@@ -25,6 +25,7 @@
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
