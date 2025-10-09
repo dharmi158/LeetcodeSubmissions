@@ -42,6 +42,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1755-defuse-the-bomb) |
 | [2227-sum-of-subarray-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2227-sum-of-subarray-ranges) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -113,6 +114,7 @@
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
@@ -234,6 +236,7 @@
 | [0409-longest-palindrome](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
