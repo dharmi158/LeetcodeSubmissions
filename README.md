@@ -36,6 +36,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1306-minimum-absolute-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1306-minimum-absolute-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -114,6 +115,7 @@
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
+| [1306-minimum-absolute-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1306-minimum-absolute-difference) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
