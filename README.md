@@ -25,6 +25,7 @@
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
@@ -113,6 +114,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
 | [1306-minimum-absolute-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1306-minimum-absolute-difference) |
@@ -237,6 +239,7 @@
 | [0402-remove-k-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
