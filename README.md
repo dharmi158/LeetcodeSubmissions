@@ -228,6 +228,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
@@ -314,4 +315,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
