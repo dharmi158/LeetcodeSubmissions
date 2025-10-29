@@ -230,6 +230,7 @@
 | [0231-power-of-two](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
@@ -329,4 +330,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
