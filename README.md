@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
