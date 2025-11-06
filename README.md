@@ -33,6 +33,7 @@
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
 | [0940-fruit-into-baskets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
@@ -67,6 +68,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
