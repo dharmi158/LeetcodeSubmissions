@@ -26,6 +26,7 @@
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -65,6 +66,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
