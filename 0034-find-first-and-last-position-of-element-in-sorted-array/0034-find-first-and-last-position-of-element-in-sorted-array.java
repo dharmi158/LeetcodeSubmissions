@@ -23,6 +23,11 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int firstPos = searchPos(nums, target, false);
         int lastPos = searchPos(nums, target, true);
+        // int count = 0;
+        // if(firstPos!= -1 && lastPos!= -1){
+        //     count = (lastPos - firstPos) + 1;
+        // }
+        //System.out.println(count);
         return new int[] {firstPos, lastPos};
     }
 }
