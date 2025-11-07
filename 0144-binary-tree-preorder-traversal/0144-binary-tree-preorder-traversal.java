@@ -16,8 +16,11 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
+
+        // Recursive approach
         //preorder(root, result);
 
+        // Iterative approach
         if(root == null){
             return result;
         }
@@ -36,7 +39,6 @@ class Solution {
                 st.push(root.left);
             }
         }
-        // Iterative approach
         return result;
     }
     // private void preorder(TreeNode node, List<Integer> res) {
