@@ -375,6 +375,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -390,6 +391,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -405,6 +407,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -422,6 +425,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
