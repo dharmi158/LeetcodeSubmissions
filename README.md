@@ -381,6 +381,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -396,6 +397,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +417,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,4 +436,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
