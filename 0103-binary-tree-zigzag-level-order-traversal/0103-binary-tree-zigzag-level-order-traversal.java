@@ -15,40 +15,37 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        Deque<TreeNode> q = new LinkedList<>();
-        boolean reverse = false;
-        List<List<Integer>> result = new LinkedList<List<Integer>>();
-        if(root==null){
+        List<List<Integer>> result = new ArrayList<>();
+        
+        if (root == null) 
             return result;
-        }
-        q.add(root);
-        while(!q.isEmpty()){
-            int levels = q.size();
-            List<Integer> current = new ArrayList<>();
-            for(int i=0;i<levels;i++){
-                if(!reverse){
-                    TreeNode curr = q.pollFirst();
-                    current.add(curr.val);
-                    if(curr.left!=null){
-                        q.addLast(curr.left);
-                    }
-                    if(curr.right!=null){
-                        q.addLast(curr.right);
-                    }
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        boolean leftToRight = true;
+
+        while(!queue.isEmpty()){
+            int size = queue.size();
+            List<Integer> level = new ArrayList<>();
+
+            for(int i=0;i<size;i++){
+                TreeNode node = queue.poll();
+                level.add(node.val);
+
+                if(node.left != null){
+                    queue.offer(node.left);
                 }
-                else{
-                    TreeNode curr = q.pollLast();
-                    current.add(curr.val);
-                    if(curr.right!=null){
-                        q.addFirst(curr.right);
-                    }
-                    if(curr.left!=null){
-                        q.addFirst(curr.left);
-                    }
+                if(node.right != null){
+                    queue.offer(node.right);
                 }
             }
-            result.add(current);
-            reverse = !reverse;
+
+            if(!leftToRight){
+                Collections.reverse(level);
+            }
+            result.add(level);
+            leftToRight = !leftToRight;
         }
         return result;
     }
