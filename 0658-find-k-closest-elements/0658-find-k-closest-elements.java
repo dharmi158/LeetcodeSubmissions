@@ -1,20 +1,40 @@
 class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
         //Two pointer approach -  TC - O(N)  , SC - O(1)
+        // List<Integer> result = new ArrayList<>();
+        // int left = 0;
+        // int right = arr.length - 1;
+
+        // while(right - left + 1 > k){
+        //     if(Math.abs(arr[left] - x) > Math.abs(arr[right] - x)){
+        //         left++;
+        //     }
+        //     else{
+        //         right--;
+        //     }
+        // }
+
+        // for(int i=left; i<=right; i++){
+        //     result.add(arr[i]);
+        // }
+        // return result;
+
+        //Binary Search Approach TC- O(logN) SC- O(1)
         List<Integer> result = new ArrayList<>();
         int left = 0;
-        int right = arr.length - 1;
+        int right = arr.length - k;
 
-        while(right - left + 1 > k){
-            if(Math.abs(arr[left] - x) > Math.abs(arr[right] - x)){
-                left++;
+        while(left < right){
+            int mid = left + (right - left) / 2;
+            if(x - arr[mid] > arr[mid+k] - x){
+                left  = mid +1;
             }
             else{
-                right--;
+                right = mid;
             }
         }
 
-        for(int i=left; i<=right; i++){
+        for(int i=left; i<left+k; i++){
             result.add(arr[i]);
         }
         return result;
