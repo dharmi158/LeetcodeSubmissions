@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        //Two pointer approach -  TC - O(N)  , SC - O(1)
+        //Two pointer approach -  TC - O(N)  , SC - O(k)
         // List<Integer> result = new ArrayList<>();
         // int left = 0;
         // int right = arr.length - 1;
@@ -19,7 +19,7 @@ class Solution {
         // }
         // return result;
 
-        //Binary Search Approach TC- O(logN) SC- O(1)
+        //Binary Search Approach TC- O(logN) SC- O(k)
         List<Integer> result = new ArrayList<>();
         int left = 0;
         int right = arr.length - k;
