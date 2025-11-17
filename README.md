@@ -43,6 +43,7 @@
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1306-minimum-absolute-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -73,6 +74,7 @@
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
