@@ -9,6 +9,14 @@ class Solution {
             high +=w; // sum of all weights
         }
 
+        //Brute force - TC- O(N^2) , SC- O(1)
+        // for (int i = low; i <= high; i++) {
+        //     if (daysNeeded(weights, i) <= days) {
+        //         return i;
+        //     }
+        // }
+        // return -1;
+
         while (low <= high) {
             int mid = low + (high - low) / 2;
             int needed = daysNeeded(weights, mid);
