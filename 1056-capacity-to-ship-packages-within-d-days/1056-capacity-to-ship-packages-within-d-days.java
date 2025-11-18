@@ -1,15 +1,15 @@
 class Solution {
-    // Binary Search - TC-o(N log(sum(weight))) , SC - O(1)
+    // Binary Search - TC-o(N * log(sum(weight))) , SC - O(1)
     public int shipWithinDays(int[] weights, int days) {
         int low  = 0;
         int high = 0;
 
         for(int w:weights){
-            low = Math.max(low,w); // max package weight
+            low = Math.max(low,w); // max package weight to ship all packages
             high +=w; // sum of all weights
         }
 
-        //Brute force - TC- O(N^2) , SC- O(1)
+        //Brute force - TC- O(N * sum(weight)) , SC- O(1)
         // for (int i = low; i <= high; i++) {
         //     if (daysNeeded(weights, i) <= days) {
         //         return i;
