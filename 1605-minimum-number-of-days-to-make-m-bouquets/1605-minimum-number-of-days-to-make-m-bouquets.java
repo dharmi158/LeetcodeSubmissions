@@ -1,4 +1,5 @@
 class Solution {
+    //TC - O(n · log(max bloomDay)) , SC - O(1)
     public int minDays(int[] bloomDay, int m, int k) {
         int low = 1;
         int high = 0;
