@@ -159,6 +159,7 @@
 | [0076-minimum-window-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0392-is-subsequence) |
@@ -401,6 +402,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -422,6 +424,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
@@ -442,6 +445,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -471,4 +475,8 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
