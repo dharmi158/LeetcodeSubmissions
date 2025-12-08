@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
@@ -421,6 +422,7 @@
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -446,6 +448,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
@@ -474,6 +477,7 @@
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -508,4 +512,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
