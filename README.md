@@ -421,6 +421,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -447,6 +448,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -476,6 +478,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -504,6 +507,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
