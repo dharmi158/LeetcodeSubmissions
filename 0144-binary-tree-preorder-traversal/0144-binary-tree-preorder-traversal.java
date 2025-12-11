@@ -30,11 +30,11 @@ class Solution {
             root = st.pop();
             result.add(root.val);
             
-            // first push right because it can traverse first
+            // push right first so that left is processed first (stack: LIFO)
             if(root.right != null){
                 st.push(root.right);
             }
-            // then push left because it can traverse last
+           // push left last so that it gets popped first (preorder: root, left, right)
             if(root.left != null){
                 st.push(root.left);
             }
