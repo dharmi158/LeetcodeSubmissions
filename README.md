@@ -173,6 +173,7 @@
 | [0383-ransom-note](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0541-reverse-string-ii) |
@@ -291,6 +292,7 @@
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
 ## Data Stream
