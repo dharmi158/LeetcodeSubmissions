@@ -432,6 +432,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -461,6 +462,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -495,6 +497,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -513,6 +516,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
