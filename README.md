@@ -43,6 +43,7 @@
 | [0940-fruit-into-baskets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -296,6 +297,7 @@
 | [0326-power-of-three](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
+| [0989-add-to-array-form-of-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
