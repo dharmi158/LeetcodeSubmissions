@@ -175,6 +175,7 @@
 | [0402-remove-k-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -293,6 +295,7 @@
 | [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
