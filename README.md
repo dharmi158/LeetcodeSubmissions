@@ -59,6 +59,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1755-defuse-the-bomb) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2227-sum-of-subarray-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2227-sum-of-subarray-ranges) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -125,6 +126,7 @@
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
@@ -165,6 +167,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1306-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -344,6 +347,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
