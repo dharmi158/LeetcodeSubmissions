@@ -38,6 +38,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
