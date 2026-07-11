@@ -315,6 +315,7 @@
 | [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -403,6 +404,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2485-find-the-pivot-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 ## Linked List
 |  |
 | ------- |
