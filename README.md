@@ -61,6 +61,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1732-find-the-highest-altitude](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1755-defuse-the-bomb) |
 | [1991-find-the-middle-index-in-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -406,6 +407,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2574-left-and-right-sum-differences) |
