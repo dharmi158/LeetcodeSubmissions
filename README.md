@@ -73,6 +73,7 @@
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -319,6 +320,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -411,6 +413,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
