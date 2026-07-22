@@ -48,6 +48,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0989-add-to-array-form-of-integer) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -334,6 +335,7 @@
 | [0455-assign-cookies](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
