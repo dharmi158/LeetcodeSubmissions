@@ -73,6 +73,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2574-left-and-right-sum-differences) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -584,4 +585,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
