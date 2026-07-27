@@ -92,6 +92,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0633-sum-of-square-numbers) |
@@ -320,6 +321,7 @@
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0633-sum-of-square-numbers) |
