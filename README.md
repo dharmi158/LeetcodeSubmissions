@@ -75,6 +75,7 @@
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -241,6 +242,7 @@
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0225-implement-stack-using-queues](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -405,6 +408,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -425,6 +429,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2574-left-and-right-sum-differences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
