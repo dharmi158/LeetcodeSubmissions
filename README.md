@@ -218,6 +218,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
 |  |
@@ -266,6 +267,7 @@
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0917-reverse-only-letters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0917-reverse-only-letters) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Segment Tree
@@ -281,6 +283,7 @@
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Ordered Set
 |  |
 | ------- |
