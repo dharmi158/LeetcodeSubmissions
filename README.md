@@ -217,6 +217,7 @@
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2810-faulty-keyboard](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2810-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -280,6 +281,7 @@
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
+| [2810-faulty-keyboard](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2810-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3790-fruits-into-baskets-ii) |
