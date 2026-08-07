@@ -43,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0940-fruit-into-baskets) |
@@ -266,6 +267,7 @@
 | [0633-sum-of-square-numbers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0917-reverse-only-letters) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -281,6 +283,7 @@
 | [0258-add-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [2810-faulty-keyboard](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2810-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Bucket Sort
 |  |
@@ -419,6 +423,7 @@
 | [0231-power-of-two](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
