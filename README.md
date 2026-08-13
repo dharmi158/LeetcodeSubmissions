@@ -49,6 +49,7 @@
 | [0940-fruit-into-baskets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -183,6 +184,7 @@
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0883-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1306-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -269,6 +271,7 @@
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3884-first-matching-character-from-both-ends) |
