@@ -220,6 +220,7 @@
 | [1873-longest-nice-substring](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2000-reverse-prefix-of-word) |
 | [2810-faulty-keyboard](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2810-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -272,6 +273,7 @@
 | [0832-flipping-an-image](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2000-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -319,6 +321,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2000-reverse-prefix-of-word](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2000-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3447-clear-digits) |
 ## Design
