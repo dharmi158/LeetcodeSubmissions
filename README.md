@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0042-trapping-rain-water) |
@@ -171,6 +172,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0242-valid-anagram) |
@@ -256,6 +258,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0042-trapping-rain-water) |
