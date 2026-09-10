@@ -41,6 +41,7 @@
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
@@ -137,6 +138,7 @@
 | [0645-set-mismatch](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
@@ -336,6 +338,7 @@
 | [0225-implement-stack-using-queues](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -466,6 +469,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0705-design-hashset](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0706-design-hashmap) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -629,6 +633,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/0706-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
