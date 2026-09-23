@@ -82,6 +82,7 @@
 | [2634-minimum-common-value](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2634-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2951-find-the-peaks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -639,4 +640,5 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
