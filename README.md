@@ -74,6 +74,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2227-sum-of-subarray-ranges) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2350-find-closest-number-to-zero](https://github.com/dharmi158/LeetcodeSubmissions/tree/master/2350-find-closest-number-to-zero) |
